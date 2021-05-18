@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ID Application</string>
+    <string name="dob">\"Date of Birth : \"</string>
+    <string name="Gender">\"Gender : \"</string>
+    <string name="Nationality">\"Nationality : \"</string>
+    <string name="newLine">\n</string>
+</resources>
